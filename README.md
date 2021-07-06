@@ -1,4 +1,4 @@
-SmartMedAutomation### [_****_](url)
+### **_[SmartMedAutomation](url)_**
 
 ### **[Technology used](url)**
 - Test tool: Selenium
